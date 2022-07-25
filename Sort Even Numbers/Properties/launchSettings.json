@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sort Even Numbers": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\"
+    }
+  }
+}
